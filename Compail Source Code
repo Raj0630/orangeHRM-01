@@ -1,0 +1,3 @@
+pytest TC_01/Test_01.py -v    --   This code is used to compile TC_01
+pytest TC_02/Test_02.py -v    --   This code is used to compile TC_02
+pytest TC_03/Test_03.py -v    --   This code is used to compile TC_03
